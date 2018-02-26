@@ -1,6 +1,5 @@
-# Reflection
 
-## 1. Describe my pipeline. I explain how I modified the draw_lines() function.
+## 1. Describe my pipeline. 
 
 - My pipeline consisted of 5steps. I'm going to write details below.
 1. I converted the images to grayscale.
