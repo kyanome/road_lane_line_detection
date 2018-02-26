@@ -21,7 +21,7 @@
 - if the left line interval is so large, draw_lines() function understand right line is next line.
 
 ## 4. Output videos
-![Output_image](https://qiita-image-store.s3.amazonaws.com/0/45617/015bd058-7ea0-e6a5-b9cb-36a4fb38e59c.png "Qiita")
+![Output_image](./sample_image.png)
 
 
 1. [solidWhiteRight](https://www.youtube.com/watch?v=7N8M5-Zdnzk&feature=youtu.be)
