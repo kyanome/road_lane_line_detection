@@ -21,8 +21,13 @@
 - if the left line interval is so large, draw_lines() function understand right line is next line.
 
 ## 4. Output videos
-![Output_image](./sample_image.png)
+![alt text][image1]
 
 
 1. [solidWhiteRight](https://www.youtube.com/watch?v=7N8M5-Zdnzk&feature=youtu.be)
 2. [solidYellowLeft](https://www.youtube.com/watch?v=ba81I_ywZ4Q&feature=youtu.be)
+
+
+
+------
+[image1]: ./images/sample_image.png 
