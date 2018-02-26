@@ -19,3 +19,7 @@
 ## 3. Suggest possible improvements to your pipeline
 - A possible improvement would be to decrease length of y2 (y2 = int((maxY/2)) + 60)
 - if the left line interval is so large, draw_lines() function understand right line is next line.
+
+## 4. Output videos
+1. [solidWhiteRight](https://www.youtube.com/watch?v=7N8M5-Zdnzk&feature=youtu.be)
+2. [solidYellowLeft](https://www.youtube.com/watch?v=ba81I_ywZ4Q&feature=youtu.be)
